@@ -1,0 +1,6 @@
+{
+  "name": "Limelight Restaurant",
+  "description": "An elegant pink-themed website for Limelight Restaurant, complete with an administrative control panel for updating homepage hero sections, menus, opening hours, contact details, SEO configurations, and photo galleries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
